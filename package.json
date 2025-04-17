@@ -1,0 +1,33 @@
+{
+  "name": "Limfinity",
+  "displayName": "Limfinity",
+  "description": "A sleek, modern dark theme with clean syntax highlighting",
+  "version": "0.0.1",
+  "publisher": "liminityab",
+  "icon": "images/Limfinity.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liminityab/Limfinity"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "limfinity",
+    "semantic"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Limfinity Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Limfinity-semantic-color-theme.json"
+      }
+    ]
+  }
+}

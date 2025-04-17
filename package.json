@@ -2,8 +2,8 @@
   "name": "Limfinity",
   "displayName": "Limfinity",
   "description": "A sleek, modern dark theme with clean syntax highlighting",
-  "version": "0.0.1",
-  "publisher": "liminityab",
+  "version": "0.0.2",
+  "publisher": "LiminityAB",
   "icon": "images/Limfinity.png",
   "repository": {
     "type": "git",
